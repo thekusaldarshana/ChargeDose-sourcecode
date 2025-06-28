@@ -1,6 +1,4 @@
-# ⚡ ChargeDose
-
-![ChargeDose Logo](chargedose.ico)
+# ![ChargeDose Logo](chargedose.ico) ChargeDose
 
 > Smart battery alert tool for Windows — extend your battery health with timely alerts.
 
@@ -54,6 +52,12 @@ Built by **Kusal Darshana** — Sri Lanka 🇱🇰
 Focused on tools that help students and laptop users protect their battery life.
 
 GitHub: [github.com/thekusaldarshana](https://github.com/thekusaldarshana)
+
+---
+
+## ⚡ Get ChargeDose to your Windows
+
+It's Free, [Download Now](https://chargedose.whatsthetime.online).
 
 ---
 
