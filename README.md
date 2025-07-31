@@ -54,10 +54,10 @@ GitHub: [github.com/thekusaldarshana](https://github.com/thekusaldarshana)
 
 ---
 
-## ⚡ Get ChargeDose to your Windows
-
-It's Free, [Download Now](https://chargedose.whatsthetime.online).
-
+## ⚡ Get ChargeDose to your PC
+It's Free, 
+ - Windows : [Download Now](https://chargedose.whatsthetime.online).
+ - Linux : Download the chargedose_installer.sh and run in terminal. It will automatically install Chargedose.
 ---
 
 ## 🙌 Support & Ideas
