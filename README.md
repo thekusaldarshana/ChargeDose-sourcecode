@@ -48,8 +48,7 @@ ChargeDose is released under the [MIT License](./license.txt).
 
 ## 👨‍💻 Author
 
-Built by **Kusal Darshana** — Sri Lanka 🇱🇰  
-Focused on tools that help students and laptop users protect their battery life.
+Built by **thekusaldarshana @RemeiniumLabs** — Sri Lanka 🇱🇰  
 
 GitHub: [github.com/thekusaldarshana](https://github.com/thekusaldarshana)
 
